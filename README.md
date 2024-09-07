@@ -1,5 +1,9 @@
 ## 我在人世间凑数的日子 👋
 
+![fofie](https://github.com/user-attachments/assets/9ec71edb-4a77-45a9-9c40-cf4839726402)
+
+
+
 <!--
 **btcethbnbokx/btcethbnbokx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
