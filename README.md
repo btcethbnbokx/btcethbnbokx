@@ -1,3 +1,7 @@
+
+
+![github contribution grid snake animation](https://github.com/Y4tacker/Y4tacker/blob/output/github-contribution-grid-snake.svg)
+
 ## 我在人世间凑数的日子 👋
 
 ![t0139b4edf4fde1f67c](https://github.com/user-attachments/assets/9d20c2d6-ca69-42ab-98f6-fc15f1fd6c11)
